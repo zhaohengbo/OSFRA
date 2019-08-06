@@ -5,7 +5,7 @@
  
  The system, as shown in the figure, can be divided into analog domain and digital domain.
  
- ![Control System](https://github.com/zhaohengbo/OSFRA/blob/master/image/1.PNG)
+ ![Control System](https://github.com/zhaohengbo/OSFRA/blob/master/image/1.png)
  
  It is very easy to get:
  
