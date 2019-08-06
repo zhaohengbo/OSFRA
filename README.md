@@ -9,9 +9,7 @@
  
  It is very easy to get:
  
- (1)GH = e^(theta_feedback) / e^(theta_error)
- 
-       = e^(theta_feedback) / (e^(theta_reference) - e^(theta_feedback))
+ (1)GH = e^(theta_feedback) / e^(theta_error) = e^(theta_feedback) / (e^(theta_reference) - e^(theta_feedback))
  
  (2)H = e^(theta_control) / e^(theta_feedback)
  

@@ -50,7 +50,7 @@ void OSFRA_BackgroundTask(OSFRA *OSFRA_obj)
 		}
 		if(OSFRA_obj->storeCL == 1)
 		{
-			// GH = e^(theta_reference) / e^(theta_feedback) 
+			// CL = e^(theta_reference) / e^(theta_feedback) 
 			// NOTE: OSFRA_rCosSum is almost zero!
 			CL_Q = -OSFRA_yCosSum/(-OSFRA_rSinSum);
 			CL_I = -OSFRA_ySinSum/(-OSFRA_rSinSum);
