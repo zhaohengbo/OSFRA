@@ -13,7 +13,7 @@
  
  (2)H = e^(theta_control) / e^(theta_feedback)
  
- (3)GH = e^(theta_reference) / e^(theta_feedback)
+ (3)CL = e^(theta_reference) / e^(theta_feedback)
  
  **As e^(theta_reference).I is almost zero, some simplifications can be made.**
  
